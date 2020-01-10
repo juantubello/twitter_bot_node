@@ -23,7 +23,7 @@ instead of a google spreadsheet.
   or ```clone``` this repo.
   
 - Finally remember to:
-  - In package.json adjust this ```"start": "node yourFileName.js"``` with your file name.
+  - In package.json adjust ```"start": "node yourFileName.js"``` with your file name.
   - Add your twitter and firebase credentials in modules
     - ```var twitterConfig = require('./twitterconfig');``` 
     - ```var admin = require('firebase-admin');```
