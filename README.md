@@ -1,6 +1,6 @@
 # twitter_bot_node
-Like in my other [repo](https://github.com/juantubello/twitter_bot), I develop the same bot but in this case it store data on firebase
-instead of a google spreadsheet.
+Like in my other [repo](https://github.com/juantubello/twitter_bot), I develop the same bot but in this case, it stores data on firebase
+instead of a google spreadsheet and is written in JavaScript because I was curious about learning this language and understand more about async and promises.
 
 ## Features
 
