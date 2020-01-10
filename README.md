@@ -14,7 +14,7 @@ instead of a google spreadsheet.
 
 # Setup
 
-- First You will need [node_js](https://nodejs.org/es/) , twitter [dev account](https://developer.twitter.com/en/apply-for-access) and a [firebase project](https://firebase.google.com/?hl=es)
+- First you will need [node_js](https://nodejs.org/es/) , twitter [dev account](https://developer.twitter.com/en/apply-for-access) and a [firebase project](https://firebase.google.com/?hl=es)
 - Then start a new project with ```npm init``` install dependencies with
    - ```npm install twit --save``` 
    - ```npm install firebase-admin --save``` 
