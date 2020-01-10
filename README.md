@@ -24,11 +24,14 @@ instead of a google spreadsheet.
   
 - Finally remember to:
   - In package.json adjust ```"start": "node yourFileName.js"``` with your file name.
+  
   - Add your twitter and firebase credentials in modules:
     - ```var twitterConfig = require('./twitterconfig');``` 
     - ```var admin = require('firebase-admin');```
+    
   - Adjust ```twbot.js``` with ```databaseURL: 'https://yourDB.firebaseio.com/'``` and replace the parameter of 
     ```buscoTweets(@BotUsername)``` function with the specific type of tweet that you want to look for.
+    
     
 - If all done correctly, run ```npm start``` and you will have your bot running locally! 
 
