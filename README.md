@@ -8,7 +8,7 @@ instead of a google spreadsheet.
 
 - **No duplicate tweets**: The bot has an index indicating which was the last quote tweeted to avoid duplicates
 
-- **Log** : This bot use firebase to store quotes, replyed tweets, index of last quote.
+- **Log** : This bot use firebase to store quotes, replyed tweets and index of last quote.
 
 - **Doesn't need much**: It's quite simple to implement this bot.
 
