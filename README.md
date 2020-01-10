@@ -33,7 +33,7 @@ instead of a google spreadsheet.
     ```buscoTweets(@BotUsername)``` function with the specific type of tweet that you want to look for.
     
     
-- If all done correctly run ```npm start``` and you will have your bot running locally! 
+- If all done correctly run ```npm start``` on your project directory and you will have your bot running locally! 
 
     
    
