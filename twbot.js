@@ -26,6 +26,8 @@ var newRandomIndex = 0;
 responderMenciones(60000);
 
 //--Funciones 
+
+//--Recursivo
 function responderMenciones(tiempo) {
   intervalo(tiempo).then(() => {
     buscoTweets("@yourBotAccount").then(data => {
